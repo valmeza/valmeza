@@ -7,7 +7,4 @@
 - 👩🏻‍💻 I'm open to collaborations
 - 🤪 Fun fact: I play the drum set 🥁
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valmeza&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmeza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valmeza&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valmeza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

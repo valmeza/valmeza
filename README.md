@@ -25,4 +25,4 @@ I’m not afraid to step out of my comfort zone to solve a hard problem. If ther
 
 I’m always down for a collab or to talk shop about AI, infra, or whatever project you’re currently stuck on. I don't know a lot of things so always willing to be the person who just nods my head pretending I know what you are talking about 😉.
 
-**[Check out my LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/valeria-meza/)**
+**Get in touch, just click one of the links to the left, one of them should be working**
